@@ -24,7 +24,7 @@
     <h1>The Wellermans Group<small> ©</small></h1>
 
     <h4>
-        Made by Cyrus Neff
+        Made by Cyrus Neff and Jacob Janzen
         <br>last updated: 10/7/23
     </h4>
 
@@ -114,7 +114,7 @@
 		<br>We'll take our leave and go
 	</p>
 
-	<button type="button" onclick="alert('Good Job!')">click this button now</button>
+	<button type="button" onclick="alert()">click this button now</button>
 	
 	<p></p><div id="container"></div>
 	
