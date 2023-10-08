@@ -13,9 +13,9 @@
 <head>
     <title>The Wellerman Group ©</title>
     <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
-	<link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@master/favicon.png">
+	<link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@latest/favicon.png">
     
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@master/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@latest/style.css">
 	
 </head>
 
@@ -30,12 +30,12 @@
 
     <p>this is top secret information</p>
 
-    <img src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@master/wellerman.jpg" height="300" />
+    <img src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@latest/wellerman.jpg" height="300" />
 
     <p>We the people of the wellermans group in order to form an amazing group, establish greatness, ensure that everbody knows that this is the best thing ever known to man kind, provide for the ships, promote sailing, and secure the wellermans group as an amazing thing.</p>
 
 	<p><b>Listen To Wellerman</b></p>
-	<audio controls src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@master/wellerman.mp3" ></audio>
+	<audio controls src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@latest/wellerman.mp3" ></audio>
 
 	<p>
 		<b>Wellerman Lyrics:</b>
@@ -114,7 +114,7 @@
 		<br>We'll take our leave and go
 	</p>
 
-	<button type="button" onclick="alert("Good Job!")">click this button now</button>
+	<button type="button" onclick="alert('Good Job!')">click this button now</button>
 	
 	<p></p><div id="container"></div>
 	
@@ -125,11 +125,11 @@
 			const player = ruffle.createPlayer();
 			const container = document.getElementById("container");
 			container.appendChild(player);
-			player.load("https://cdn.jsdelivr.net/gh/jacojanze/wellerman@master/flash.swf");
+			player.load("https://cdn.jsdelivr.net/gh/jacojanze/wellerman@latest/flash.swf");
 		});
 	</script>
 			
-	<script src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@master/script.js"/>
+	<script src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@latest/script.js"/>
 	
 </body>
 
