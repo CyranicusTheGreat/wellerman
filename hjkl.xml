@@ -12,7 +12,71 @@
 
     <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@d3b62897b1ac81f0f89e1a5634118941139da181/assets/favicon.png" />
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@d3b62897b1ac81f0f89e1a5634118941139da181/src/style.css" />
+    <style>
+audio {
+  width: 400px;  
+}
+
+
+small {
+  font-size: 14px;
+}
+
+tiny {
+  font-size: 7px;
+}
+
+
+summary {
+  cursor: pointer;
+}
+
+
+.wrapper{
+  visibility: hidden;
+  position: absolute;
+  width: 250px;
+  border-radius: 10px;
+  background: #E5E4E2;
+  box-shadow: 0 12px 35px rgba(0,0,0,0.1);
+}
+
+.wrapper .menu{
+  padding: 10px 12px;
+}
+
+.content .item{
+  list-style: none;
+  font-size: 22px;
+  height: 30px;
+  display: flex;
+  width: 94%;
+  cursor: pointer;
+  align-items: center;
+  border-radius: 5px;
+  margin-bottom: 2px;
+  padding: 0 5px 0 10px;
+}
+
+.content .item:hover{
+  background: #f2f2f2;
+}
+
+.content .item span{
+  margin-left: 8px;
+  font-size: 15px;
+}
+
+
+button {
+  z-index: 10;
+}
+
+a {
+  z-index: 10;
+}
+
+</style>
 </head>
 
 <body>
