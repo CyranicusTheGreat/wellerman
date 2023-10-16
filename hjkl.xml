@@ -10,9 +10,9 @@
 <head>
     <title>The Wellerman Group ©</title>
 
-    <link rel="icon" type="image/x-icon" href="/assets/favicon.png" />
+    <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@d3b62897b1ac81f0f89e1a5634118941139da181/assets/favicon.png" />
 
-    <link rel="stylesheet" href="/src/style.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@d3b62897b1ac81f0f89e1a5634118941139da181/src/style.css" />
 </head>
 
 <body>
@@ -132,7 +132,7 @@
     <!-- create extra stuff (top secret information) -->
     <p>This is top secret information.</p>
     <!-- create extra stuff (picture) -->
-    <img src="/assets/wellerman.jpg" height="300" /><br><br>
+    <img src="https://cdn.jsdelivr.net/gh/jacojanze/wellerman@d3b62897b1ac81f0f89e1a5634118941139da181/assets/wellerman.jpg" height="300" /><br><br>
     
     <!-- create the dropdown for the buttons -->
     <details>
